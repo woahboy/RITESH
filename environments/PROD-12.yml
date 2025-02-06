@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "12"
+mappingDefinitions:
+  SAMPLE:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  WORK:
+    database: RITESH_DEV
+    schema: PROD
+name: PROD
+type: Environment
